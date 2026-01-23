@@ -21,3 +21,18 @@ console.log("teste 15")
 console.log("teste 16")
 console.log("teste 17")
 console.log("teste 18")
+
+const c = 3;
+console.log(c);
+console.log("teste 19")
+console.log("teste 20")
+console.log("teste 21")
+console.log("teste 22")
+console.log("teste 23")
+console.log("teste 24")
+console.log("teste 25")
+console.log("teste 26")
+console.log("teste 27")
+console.log("teste 28")
+console.log("teste 29")
+console.log("teste 30")
