@@ -15,7 +15,6 @@ console.log("teste 7")
 console.log("teste 8")
 console.log("teste 9")
 console.log("teste 10")
-<<<<<<< HEAD
 
 const d = 4;
 console.log(d);
@@ -29,5 +28,3 @@ console.log("teste 17")
 console.log("teste 18")
 console.log("teste 19")
 console.log("teste 20")
-=======
->>>>>>> 4661cb6ce6bae1e63f5660ab83664e8846656e13
