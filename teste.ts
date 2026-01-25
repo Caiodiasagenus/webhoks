@@ -69,3 +69,16 @@ console.log("teste 47")
 console.log("teste 48")
 console.log("teste 49")
 console.log("teste 50")
+
+const h = 8;
+console.log(h);
+console.log("teste 51")
+console.log("teste 52")
+console.log("teste 53")
+console.log("teste 54")
+console.log("teste 55")
+console.log("teste 56")
+console.log("teste 57")
+console.log("teste 58")
+console.log("teste 59")
+console.log("teste 60")
