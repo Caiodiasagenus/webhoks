@@ -12,3 +12,16 @@ console.log("teste 7")
 console.log("teste 8")
 console.log("teste 9")
 console.log("teste 10")
+
+const c = 3;
+console.log(c);
+console.log("teste 11")
+console.log("teste 12")
+console.log("teste 13")
+console.log("teste 14")
+console.log("teste 15")
+console.log("teste 16")
+console.log("teste 17")
+console.log("teste 18")
+console.log("teste 19")
+console.log("teste 20")
