@@ -55,3 +55,17 @@ console.log("teste 37")
 console.log("teste 38")
 console.log("teste 39")
 console.log("teste 40")
+
+
+const g = 7;
+console.log(g);
+console.log("teste 41")
+console.log("teste 42")
+console.log("teste 43")
+console.log("teste 44")
+console.log("teste 45")
+console.log("teste 46")
+console.log("teste 47")
+console.log("teste 48")
+console.log("teste 49")
+console.log("teste 50")
