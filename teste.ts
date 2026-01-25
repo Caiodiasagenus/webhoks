@@ -42,3 +42,16 @@ console.log("teste 27")
 console.log("teste 28")
 console.log("teste 29")
 console.log("teste 30")
+
+const f = 6;
+console.log(f);
+console.log("teste 31")
+console.log("teste 32")
+console.log("teste 33")
+console.log("teste 34")
+console.log("teste 35")
+console.log("teste 36")
+console.log("teste 37")
+console.log("teste 38")
+console.log("teste 39")
+console.log("teste 40")
