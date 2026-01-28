@@ -12,3 +12,17 @@ console.log(teste)
 
 teste = "teste 5"
 console.log(teste)
+
+teste = "teste 6"
+console.log(teste)
+
+teste = "teste 7"
+console.log(teste)
+
+teste = "teste 8"
+console.log(teste)
+
+teste = "teste 9"
+console.log(teste)
+
+teste = "teste 10"
