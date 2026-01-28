@@ -26,3 +26,9 @@ teste = "teste 9"
 console.log(teste)
 
 teste = "teste 10"
+console.log(teste)
+
+console.log(teste)
+
+const a = 1;
+console.log(a);
