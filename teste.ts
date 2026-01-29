@@ -96,3 +96,16 @@ console.log(cg);
 
 const ch = 22;
 console.log(ch);
+
+const ci = 23;
+console.log(ci);
+
+const cj = 24;
+console.log(cj);
+
+const ck = 25;
+console.log(ck);
+
+const cl = 26;
+console.log(cl);
+
