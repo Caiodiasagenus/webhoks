@@ -60,3 +60,15 @@ console.log(i);
 
 const j = 10;
 console.log(j);
+
+const k = 11;
+console.log(k);
+
+const l = 12;
+console.log(l);
+
+const m = 13;
+console.log(m);
+
+const n = 14;
+console.log(n);
