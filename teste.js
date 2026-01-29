@@ -98,4 +98,6 @@ const cx = 38;
 console.log(cx);
 const cy = 39;
 console.log(cy);
+const cz = 40;
+console.log(cz);
 //# sourceMappingURL=teste.js.map
