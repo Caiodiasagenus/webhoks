@@ -3,6 +3,7 @@
     "build": "tsc"
   },
   "dependencies": {
+    "install": "^0.13.0",
     "npm": "^11.8.0",
     "typescript": "^5.9.3",
     "uninstall": "^0.0.0"
