@@ -1,5 +1,10 @@
 {
-    "scripts": {
-      "build": "tsc"
-    }
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "npm": "^11.8.0",
+    "typescript": "^5.9.3",
+    "uninstall": "^0.0.0"
   }
+}
