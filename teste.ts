@@ -142,3 +142,9 @@ console.log(cv);
 
 const cw = 37;
 console.log(cw);
+
+const cx = 38;
+console.log(cx);
+
+const cy = 39;
+console.log(cy);
