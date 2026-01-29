@@ -75,3 +75,37 @@ console.log(n);
 
 const ca = 15;
 console.log(ca);
+
+const cb = 16;
+console.log(cb);
+
+const cc = 17;
+console.log(cc);
+
+const cd = 18;
+console.log(cd);
+
+const ce = 19;
+console.log(ce);
+
+const cf = 20;
+console.log(cf);
+
+const cg = 21;
+console.log(cg);
+
+const ch = 22;
+console.log(ch);
+
+const ci = 23;
+console.log(ci);
+
+const cj = 24;
+console.log(cj);
+
+const ck = 25;
+console.log(ck);
+
+const cl = 26;
+console.log(cl);
+
