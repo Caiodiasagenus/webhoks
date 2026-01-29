@@ -119,4 +119,14 @@ const co = 29;
 console.log(co);
 
 const cp = 30;
+console.log(cp);
+
+const cq = 31;
+console.log(cq);
+
+const cr = 32;
+console.log(cr);
+
+const cs = 33;
+
 
