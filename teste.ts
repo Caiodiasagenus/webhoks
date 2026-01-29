@@ -72,3 +72,6 @@ console.log(m);
 
 const n = 14;
 console.log(n);
+
+const ca = 15;
+console.log(ca);
