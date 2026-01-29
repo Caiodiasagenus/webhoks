@@ -109,3 +109,14 @@ console.log(ck);
 const cl = 26;
 console.log(cl);
 
+const cm = 27;
+console.log(cm);
+
+const cn = 28;
+console.log(cn);
+
+const co = 29;
+console.log(co);
+
+const cp = 30;
+
