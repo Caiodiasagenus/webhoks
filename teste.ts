@@ -130,3 +130,15 @@ console.log(cr);
 const cs = 33;
 
 
+
+const ct = 34;
+console.log(ct);
+
+const cu = 35;
+console.log(cu);
+
+const cv = 36;
+console.log(cv);
+
+const cw = 37;
+console.log(cw);
