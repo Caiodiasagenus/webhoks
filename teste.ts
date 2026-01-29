@@ -57,3 +57,6 @@ console.log(h);
 
 const i = 9;
 console.log(i);
+
+const j = 10;
+console.log(j);
