@@ -300,3 +300,30 @@ console.log(ew);
 
 const ex = 90;
 console.log(ex);
+
+
+const eia = 91;
+console.log(ei);
+
+const eib = 92;
+console.log(ej);
+
+const eic = 93;
+console.log(ek);
+
+const eid = 94;
+console.log(el);
+
+const eie = 95;
+console.log(eie);
+
+const eif = 96;
+console.log(eif);
+
+const eig = 97;
+console.log(eig);
+
+const eih = 98;
+console.log(eih);
+
+const eii = 99;
