@@ -144,4 +144,13 @@ console.log(du);
 const dv = 62;
 console.log(dv);
 const dw = 63;
+console.log(dw);
+const dx = 64;
+console.log(dx);
+const dy = 65;
+console.log(dy);
+const dz = 66;
+console.log(dz);
+const ea = 67;
+console.log(ea);
 //# sourceMappingURL=teste.js.map
