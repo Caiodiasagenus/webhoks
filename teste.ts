@@ -285,3 +285,18 @@ console.log(er);
 
 const es = 85;
 console.log(es);
+
+const et = 86;
+console.log(et);
+
+const eu = 87;
+console.log(eu);
+
+const ev = 88;
+console.log(ev);
+
+const ew = 89;
+console.log(ew);
+
+const ex = 90;
+console.log(ex);
