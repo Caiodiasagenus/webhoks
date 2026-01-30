@@ -169,4 +169,14 @@ const eh = 74;
 console.log(eh);
 const ei = 75;
 console.log(ei);
+const ej = 76;
+console.log(ej);
+const ek = 77;
+console.log(ek);
+const el = 78;
+console.log(el);
+const em = 79;
+console.log(em);
+const en = 80;
+console.log(en);
 //# sourceMappingURL=teste.js.map
