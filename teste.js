@@ -160,4 +160,13 @@ console.log(ec);
 const ed = 70;
 console.log(ed);
 const ee = 71;
+console.log(ee);
+const ef = 72;
+console.log(ef);
+const eg = 73;
+console.log(eg);
+const eh = 74;
+console.log(eh);
+const ei = 75;
+console.log(ei);
 //# sourceMappingURL=teste.js.map
