@@ -181,3 +181,29 @@ console.log(di);
 
 const dj = 50;
 console.log(dj);
+
+const dk = 51;
+console.log(dk);
+
+const dl = 52;
+
+const dm = 53;
+console.log(dm);
+
+const dn = 54;
+console.log(dn);
+
+const dop = 55;
+console.log(dop);
+
+const dp = 56;
+console.log(dp);
+
+const dq = 57;
+console.log(dq);
+
+const dr = 58;
+console.log(dr);
+
+const ds = 59;
+console.log(ds);
