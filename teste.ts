@@ -152,3 +152,18 @@ console.log(cy);
 
 const cz = 40;
 console.log(cz);
+
+const da = 41;
+console.log(da);
+
+const db = 42;
+console.log(db);
+
+const dc = 43;
+console.log(dc);
+
+const dd = 44;
+console.log(dd);
+
+const de = 45;
+console.log(de);
