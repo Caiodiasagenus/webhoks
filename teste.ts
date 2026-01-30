@@ -270,3 +270,18 @@ console.log(em);
 
 const en = 80;
 console.log(en);
+
+const eo = 81;
+console.log(eo);
+
+const ep = 82;
+console.log(ep);
+
+const eq = 83;
+console.log(eq);
+
+const er = 84;
+console.log(er);
+
+const es = 85;
+console.log(es);
