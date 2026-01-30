@@ -153,4 +153,11 @@ const dz = 66;
 console.log(dz);
 const ea = 67;
 console.log(ea);
+const eb = 68;
+console.log(eb);
+const ec = 69;
+console.log(ec);
+const ed = 70;
+console.log(ed);
+const ee = 71;
 //# sourceMappingURL=teste.js.map
