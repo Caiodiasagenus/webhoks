@@ -110,4 +110,14 @@ const dd = 44;
 console.log(dd);
 const de = 45;
 console.log(de);
+const df = 46;
+console.log(df);
+const dg = 47;
+console.log(dg);
+const dh = 48;
+console.log(dh);
+const di = 49;
+console.log(di);
+const dj = 50;
+console.log(dj);
 //# sourceMappingURL=teste.js.map
