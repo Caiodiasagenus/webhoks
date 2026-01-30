@@ -137,4 +137,11 @@ const dr = 58;
 console.log(dr);
 const ds = 59;
 console.log(ds);
+const dt = 60;
+console.log(dt);
+const du = 61;
+console.log(du);
+const dv = 62;
+console.log(dv);
+const dw = 63;
 //# sourceMappingURL=teste.js.map
