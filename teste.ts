@@ -338,3 +338,30 @@ console.log(eil);
 
 const eim = 103;
 console.log(eim);
+
+const ein = 104;
+console.log(ein);
+
+const eio = 105;
+console.log(eio);
+
+const eip = 106;
+console.log(eip);
+
+const eiq = 107;
+console.log(eiq);
+
+const eir = 108;
+console.log(eir);
+
+const eis = 109;
+console.log(eis);
+
+const eit = 110;
+console.log(eit);
+
+const eiu = 111;
+console.log(eiu);
+
+const eiv = 112;
+console.log(eiv);   
