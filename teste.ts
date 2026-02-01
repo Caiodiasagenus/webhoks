@@ -313,7 +313,6 @@ console.log(ek);
 
 const eid = 94;
 console.log(el);
-
 const eie = 95;
 console.log(eie);
 
@@ -327,3 +326,15 @@ const eih = 98;
 console.log(eih);
 
 const eii = 99;
+console.log(eii);
+const eij = 100;
+console.log(eij);
+
+const eik = 101;
+console.log(eik);
+
+const eil = 102;
+console.log(eil);
+
+const eim = 103;
+console.log(eim);
