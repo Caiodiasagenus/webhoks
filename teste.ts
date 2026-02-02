@@ -379,3 +379,27 @@ const eiz = 116;
 console.log(eiz);
 
 const eja = 117;
+console.log(eja);
+
+const ejb = 118;
+console.log(ejb);
+
+const ejc = 119;
+console.log(ejc);
+
+const ejd = 120;
+console.log(ejd);
+
+const eje = 121;
+console.log(eje);
+
+const ejf = 122;
+console.log(ejf);
+
+const ejg = 123;
+console.log(ejg);
+
+const ejh = 124;
+console.log(ejh);
+
+const eji = 125;
