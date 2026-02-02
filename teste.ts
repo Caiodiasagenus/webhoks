@@ -411,33 +411,3 @@ console.log(ejj);
 const ejk = 127;
 console.log(ejk);
 
-const ejl = 128;
-console.log(ejl);
-
-const ejm = 129;
-console.log(ejm);
-
-const ejn = 130;
-console.log(ejn);
-
-const ejo = 131;
-console.log(ejo);
-
-const ejp = 132;
-console.log(ejp);
-
-const ejq = 133;
-console.log(ejq);
-
-
-const ejr = 134;
-console.log(ejr);
-
-const ejs = 135;
-console.log(ejs);
-
-const ejt = 136;
-console.log(ejt);
-
-const eju = 137;
-console.log(eju);
