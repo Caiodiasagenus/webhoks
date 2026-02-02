@@ -253,4 +253,14 @@ const ejc = 116;
 console.log(ejc);
 const ejd = 117;
 console.log(ejd);
+const eka = 118;
+console.log(eka);
+const ekb = 119;
+console.log(ekb);
+const ekc = 120;
+console.log(ekc);
+const ekd = 121;
+console.log(ekd);
+const eke = 122;
+console.log(eke);
 //# sourceMappingURL=teste.js.map
