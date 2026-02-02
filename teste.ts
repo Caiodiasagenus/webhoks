@@ -462,3 +462,14 @@ console.log(eka);
 
 const ekb = 144;
 console.log(ekb);
+const ekc = 145;
+console.log(ekc);
+
+const ekd = 146;
+console.log(ekd);
+
+const eke = 147;
+console.log(eke);
+
+const ekf = 148;
+console.log(ekf);
