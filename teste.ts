@@ -368,3 +368,15 @@ console.log(eiv);
 
 const eiw = 113;
 console.log(eiw);
+
+const eja = 114;
+console.log(eja);
+
+const ejb = 115;
+console.log(ejb);
+
+const ejc = 116;
+console.log(ejc);
+
+const ejd = 117;
+console.log(ejd);
