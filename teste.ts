@@ -365,3 +365,17 @@ console.log(eiu);
 
 const eiv = 112;
 console.log(eiv);   
+
+const eiw = 113;
+console.log(eiw);
+
+const eix = 114;
+console.log(eix);
+
+const eiy = 115;
+console.log(eiy);
+
+const eiz = 116;
+console.log(eiz);
+
+const eja = 117;
