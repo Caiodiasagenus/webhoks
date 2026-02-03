@@ -13,9 +13,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: 18
           cache: npm
+
       - run: npm ci
+
       - run: npm run build
+
+      - name: Verify dist output
+        run: |
+          echo "Root:"
+          ls -la
+          echo "Dist:"
+          ls -la dist || true
+          echo "Find index.js:"
+          find . -maxdepth 4 -type f -name "index.js" -print
+          test -f dist/index.js
