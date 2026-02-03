@@ -17,4 +17,12 @@ console.log(e);
 console.log(c + d);
 console.log(c + d);
 console.log(c + d);
+console.log(c + d);
+console.log(c + d);
+console.log(c + d);
+console.log(c + d);
+console.log(c + d);
+console.log(c + d);
+console.log(c + d);
+console.log(c + d);
 //# sourceMappingURL=teste.js.map
