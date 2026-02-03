@@ -9,4 +9,9 @@ const c = a + b;
 console.log(c);
 const d = a * b;
 console.log(d);
+console.log(c);
+console.log(d);
+console.log(c + d);
+const e = c + d;
+console.log(e);
 //# sourceMappingURL=teste.js.map
